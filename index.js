@@ -22,4 +22,4 @@ function BoardMember(name, homeState, training){
    }
  }
  
- BoardMember.
+ BoardMember.prototype.veto()
